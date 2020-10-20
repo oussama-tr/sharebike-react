@@ -1,0 +1,6 @@
+/.idea
+/.vs
+node_modules
+dist
+client/frontend/node_modules/
+client/backend/node_modules/
